@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sahana Anand</h1>
 <h3 align="center">A software developer in Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahanaanand04" alt="sahanaanand04" /></a> </p>
 
 - 🔭 I’m currently working on **finding a job**
 
