@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **finding a job**
 
-- 🌱 I’m currently learning **upping my skills** and looking into **data Journalism**
+- 🌱 I’m currently working on **upping my skills** and looking into **data Journalism** as a hobby.
 
 - 👨‍💻 All of my projects are available at [https://sahanaanand04.github.io/Portfolio/](https://sahanaanand04.github.io/Portfolio/)
 
