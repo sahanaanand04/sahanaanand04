@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **av.sahana.anand@gmail.com**
 
-- ⚡ Fun fact **I am adventurous and funny**
+- ⚡ Fun fact **I am funny**
 
 <p align="left">
 </p>
