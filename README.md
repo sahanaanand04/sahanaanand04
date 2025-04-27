@@ -3,9 +3,9 @@
 <h3 align="center">A software developer in Germany</h3>
 
 
-- 🔭 I’m currently working on **finding a job**
+- 🔭 I’m currently working on **finding a job**(top priority)
 
-- 🌱 I’m working on **upping my skills** and looking into **data Journalism** as a hobby.
+- 🌱 I’m working on **upping my skills**.
 
 - 👨‍💻 All of my projects are available at [https://sahanaanand04.github.io/Portfolio/](https://sahanaanand04.github.io/Portfolio/)
 
